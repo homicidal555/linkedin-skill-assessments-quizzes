@@ -40,7 +40,7 @@
 #### Q6. When multiple objects are selected, how do you deselect just one of them?
 - [ ] Hold down the Option (Mac) or Alt (Windows) key and click the object you want to deselect.
 - [ ] Use the Lasso tool to deselect the unwanted object.
-- [ ] Shift-click the object you want to deselect
+- [x] Shift-click the object you want to deselect
 - [ ] Press Command+Shift+A (Mac) or Ctrl+Shift+A (Windows) and click the object you want to deselect.
 
 #### Q7. You need to change the fill color of all the info circles in the map below. The circles were not created from a symbol. Other than Global Edit, which command would help you accomplish this task efficiently?
